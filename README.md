@@ -1,4 +1,4 @@
-# practice-project
+# unicornzzz
 Practice project for CSSI
 
 Giovy Webb - Feb 27
