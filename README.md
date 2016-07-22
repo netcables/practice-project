@@ -1,4 +1,6 @@
-# Some kind of project or something
+
+# unicornzz (Some kind of project or something)
+
 Practice project for CSSI
 
 Giovy Webb - Feb 27
