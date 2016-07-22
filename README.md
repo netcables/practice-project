@@ -1,4 +1,4 @@
-# practice-project
+# Some kind of project or something
 Practice project for CSSI
 
 Giovy Webb - Feb 27
