@@ -1,5 +1,6 @@
-#unicornzz
-Practice project for CSSI
+
+# CSSI Homies (Some kind of project or something)
+
 
 Giovy Webb - Feb 27
 
